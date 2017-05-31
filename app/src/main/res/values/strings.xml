@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room Persistence Library</string>
+    <string name="save_data">Save data</string>
+</resources>
